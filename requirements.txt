@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+chromadb
+python-dotenv
+pypdf
+tiktoken
+fastapi
+uvicorn
+jinja2
+python-multipart
+python-jose[cryptography]
+bcrypt
+sqlalchemy
